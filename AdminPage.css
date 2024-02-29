@@ -1,0 +1,26 @@
+#h2feat{
+    text-align: center;
+    margin: 2vh;
+    font-family: cursive;
+    font-size: 5vh;
+}
+.cardPara{
+    text-align: justify;
+}
+.imgCard{
+    height: 25vh;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    
+}
+.card:hover{
+    transform: scale(1.03);
+
+}
+.card{
+    transition:all 0.7s;
+}

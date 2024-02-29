@@ -1,0 +1,14 @@
+.mission-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .mission-image {
+    max-width: 350px; /* Set the desired max width */
+    max-height: 350; /* Set the desired max height */
+  }
+  
+  .mission-text {
+    flex: 1;
+  }

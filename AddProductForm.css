@@ -1,0 +1,10 @@
+#h2feat{
+    text-align: center;
+    margin: 2vh;
+    font-family: cursive;
+    font-size: 5vh;
+}
+.btndiv{
+    display: flex;
+    justify-content: center;
+  }
